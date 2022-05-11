@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Have exposure to build professional websites :desktop_computer: , web applications :computer: and hybrid mobile applications :iphone:. Experienced with a demonstrated history of working in the information technology, services and product based industries. -->
 
 <h1 align="center">Hi there 👋, I'm Tanmoy</h1>
-<h4 align="left">Have exposure to build professional websites :desktop_computer: , web applications :computer: and hybrid mobile applications :iphone:. Experienced with a demonstrated history of working in the information technology, services and product based industries. Skiled in Front-End technologies like Angular, Reactjs, VueJs, HTML, CSS, SCSS, Bootstrap, Material design, Ionic</h4>
+<h4 align="left">Have exposure to build professional websites :desktop_computer: , web applications :computer: and hybrid mobile applications :iphone:. Experienced with a demonstrated history of working in the information technology, services, and product-based industries. Skilled in Front-End technologies like Angular, Reactjs, VueJs, HTML, CSS, SCSS, Bootstrap, Material design, Ionic</h4>
 
 <h4 align="left">Good knowledge in software development process with exposure with Agile methodologies. Played role like team lead, and senior developer.Self-motivated and accomplished software professional with almost 6+ years of experience.</h4>
 
