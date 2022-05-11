@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtanmoy&label=Profile%20views&color=0e75b6&style=flat-square" alt="dtanmoy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+:link: <h4>LinkedIn</h4>: <a href="https://www.linkedin.com/in/tanmoy-bhadra-747b504a/" />
 <p align="left">
 </p>
 
