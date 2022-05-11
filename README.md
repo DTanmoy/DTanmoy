@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tanmoy
+<!-- ### Hi there 👋, I am Tanmoy -->
 
 <!--
 **DTanmoy/DTanmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 <!-- Have exposure to build professional websites :desktop_computer: , web applications :computer: and hybrid mobile applications :iphone:. Experienced with a demonstrated history of working in the information technology, services and product based industries. -->
 
-<h1 align="center">Hi 👋, I'm Tanmoy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Tanmoy</h1>
+<h4 align="center">Have exposure to build professional websites :desktop_computer: , web applications :computer: and hybrid mobile applications :iphone:. Experienced with a demonstrated history of working in the information technology, services and product based industries.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtanmoy&label=Profile%20views&color=0e75b6&style=flat" alt="dtanmoy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtanmoy" alt="dtanmoy" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtanmoy&label=Profile%20views&color=0e75b6&style=flat-square" alt="dtanmoy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
